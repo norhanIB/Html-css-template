@@ -57,7 +57,7 @@ body {
    
 }
 .subtnco {
-    background-color: #d82a4e;
+    background-color: #2aafd8;
 }
 .subtn {
     text-align: center;
@@ -159,7 +159,7 @@ input:focus {
     padding-bottom: 40px;
 }
 .contentt:hover {
-    background-color: #d82a4e;
+    background-color: #2aafd8;
     .cardh5{
         color: #edf4f6;
     }
@@ -191,7 +191,7 @@ input:focus {
 }
 .cardspan {
     font-weight:600;
-    color: #d82a4e;
+    color: #2aafd8;
 }
 .bgcard1 {
     background-image: url(imags/1.jpg);
@@ -217,7 +217,7 @@ input:focus {
     margin-right: 10%;
     padding-top: 55px;
     padding-bottom: 60px;
-    background-color: #d82a4e;
+    background-color: #2aafd8;
 }
 .searchflex {
     padding-left: 30px;
@@ -289,7 +289,7 @@ input:focus {
     font-size: 14px;
     color:#fff;
     font-weight: 600;
-    background-color: #d82a4e;
+    background-color: #2aafd8;
 }
 .footer {
     border-top: 2px solid #d4dee1;
@@ -376,7 +376,7 @@ input:focus {
     
 .flex {
     position: relative;
-    background-color: #d82a4e;
+    background-color: #2aafd8;
     /* display: block; */
     flex-direction: row-reverse;
     padding-bottom: 115px;
@@ -425,7 +425,7 @@ input:focus {
    text-align: left;
 }
 .fieldhover:focus {
-    border-bottom: 2px solid #d82a4e;
+    border-bottom: 2px solid #2aafd8;
 }
 .desc4 {
     margin-bottom: 20px;
@@ -435,7 +435,7 @@ input:focus {
 } 
 /*section 5*/
 .desc5 {
-    border-bottom: 2px solid #d82a4e;
+    border-bottom: 2px solid #2aafd8;
     padding-bottom: 115px;
 }
 .subtn5 {
@@ -482,7 +482,7 @@ ul a {
     height: 8px;
     left: 100px;
     border-radius: 50%;
-    background: #d82a4e;
+    background: #2aafd8;
 }
 .li1 {
     margin-bottom: 27px;
