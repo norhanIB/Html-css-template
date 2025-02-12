@@ -89,7 +89,7 @@ function validationPhone(e){
 function validationWindow(e){
     if(username.value == "" && useraddress == "" && usermail == "" && userphone == ""){
        var interval =  setTimeout(() => {
-            window.location.href = "template.html";
+            window.location.href = "index.html";
           }, 30000);
     }
     else{
